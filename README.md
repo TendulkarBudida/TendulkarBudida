@@ -1,1 +1,3 @@
-![Your GIF Alt Text](https://i.pinimg.com/originals/fc/77/76/fc777662801be75c2cccaae70b21e04b.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/22/81/36/228136787949a85c103a630c753726aa.gif" width="1800" />
+</p>
