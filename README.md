@@ -1,5 +1,8 @@
-<!-- LAYER 3: THE VISUAL ANCHOR -->
-<img src="assets/gojo-satoru-hollow-purple.gif" width="800" style="border: 2px solid #8A2BE2; border-radius: 10px; box-shadow: 0 0 20px #8A2BE2;" alt="Gojo Satoru Hollow Purple"/>
+# Tendulkar Budida — GitHub Profile README
+
+## Copy this into your GitHub profile repository's README.md
+
+---
 
 # Tendulkar Budida
 
@@ -45,3 +48,23 @@
 ---
 
 > Built with Next.js + `@vercel/og` • Deployed on Vercel • Cyberpunk aesthetic by design
+
+---
+
+## Deployment Notes
+
+1. **Deploy this project to Vercel** — Push to GitHub → Import in Vercel → Deploy
+2. **Update URLs** — Replace `github-profile-deploy.vercel.app` with your actual Vercel deployment URL
+3. **Copy to profile** — Paste the markdown above into your GitHub profile repository's README.md (the one at `github.com/<username>/<username>`)
+
+## API Endpoints
+
+| Endpoint | Size | Description |
+|----------|------|-------------|
+| `/api/banner` | 1500×900 | Hero banner with name, role, tagline, stats, tech tags |
+| `/api/about` | 1500×600 | Bio, focus areas, interest tags |
+| `/api/tech-stack` | 1500×1000 | 5 categories × 6 technologies each |
+| `/api/stats` | 1500×400 | 4 metric cards (years, projects, production, AI) |
+| `/api/links` | 1500×500 | 5 connect buttons + Markdown reminder |
+
+All routes return valid PNG via `@vercel/og` with `runtime = 'nodejs'`.
