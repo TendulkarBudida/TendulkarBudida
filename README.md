@@ -1,12 +1,13 @@
 # Tendulkar Budida — GitHub Profile README
 
 ## Copy this into your GitHub profile repository's README.md
+> **Note**: The Vercel deployment is already live at `github-profile-deploy.vercel.app` — all images should render correctly.
 
 ---
 
 # Tendulkar Budida
 
-<img src="https://github-profile-deploy.vercel.app/api/banner?v=2" alt="Profile banner" width="100%" />
+<img src="https://github-profile-deploy.vercel.app/api/banner" alt="Profile banner" width="100%" />
 
 ---
 
@@ -51,11 +52,27 @@
 
 ---
 
-## Deployment Notes
+## Deployment Status ✅
 
-1. **Deploy this project to Vercel** — Push to GitHub → Import in Vercel → Deploy
-2. **Update URLs** — Replace `github-profile-deploy.vercel.app` with your actual Vercel deployment URL
-3. **Copy to profile** — Paste the markdown above into your GitHub profile repository's README.md (the one at `github.com/<username>/<username>`)
+**The Vercel deployment is already live!** 🎉
+
+- **Deployment URL**: `https://github-profile-deploy.vercel.app`
+- **All 5 API endpoints returning 200 OK**
+- **Images render correctly via GitHub's Camo proxy**
+
+### To use this profile:
+1. Create a repository named `TendulkarBudida` (must match your GitHub username)
+2. Copy the **entire markdown above** into that repo's `README.md`
+3. Commit — GitHub will render the profile automatically
+
+### If you want your own deployment:
+1. Go to [github.com/TendulkarBudida/github-profile-deploy](https://github.com/TendulkarBudida/github-profile-deploy)
+2. Fork the repository
+3. Go to [vercel.com](https://vercel.com) → **Add New → Project** → Import your fork
+4. Deploy — no configuration needed (Vercel auto-detects the `api/` folder)
+5. Update the image URLs in this README to use your new deployment URL
+
+---
 
 ## API Endpoints
 
@@ -68,3 +85,21 @@
 | `/api/links` | 1500×500 | 5 connect buttons + Markdown reminder |
 
 All routes return valid PNG via `@vercel/og` with `runtime = 'nodejs'`.
+
+---
+
+## Local Development
+
+```bash
+cd github-profile-deploy
+npm install
+npm run dev
+```
+
+Then test endpoints at `http://localhost:3000/api/banner`, `/api/about`, etc.
+
+---
+
+## Customization
+
+Edit the JSX/inline styles in `src/app/api/*/route.ts` to change colors, text, tags, spacing, etc. Every push to GitHub auto-redeploys on Vercel.
