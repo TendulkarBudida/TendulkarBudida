@@ -1,105 +1,64 @@
-# Tendulkar Budida — GitHub Profile README
+<div align="center">
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007EC6&height=250&section=header&text=Tendulkar%20Budida&fontSize=70&fontAlignY=35&animation=twinkling" alt="Header Banner" />
+  
+  <!-- ⛩️ Placeholder for your Tech-Samurai 'T' Logo -->
+  <!-- <img src="URL_TO_YOUR_T_LOGO" alt="Tech Samurai Logo" width="100"/> -->
 
-## Copy this into your GitHub profile repository's README.md
-> **Note**: The Vercel deployment is already live at `github-profile-deploy.vercel.app` — all images should render correctly.
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007EC6&width=435&lines=Full-Stack+Developer;AI+%26+Agentic+Systems;Hackathon+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
----
+## ⛩️ About Me
+* 🌍 Based in Hyderabad, India
+* 🏢 Associate Analyst (Software Engineer) building AI-driven automation systems
+* 🚀 Specialize in LLM Agent Orchestration, .NET Core, Angular, and Next.js
+* 🏆 Meta PyTorch OpenEnv Hackathon Finalist (Top 800 of 31,000+ teams)
+* 📫 Reach me at: **tendulkarbudida@gmail.com**
 
-# Tendulkar Budida
+## 🛠️ Tech Stack & Tools
 
-<img src="https://github-profile-deploy.vercel.app/api/banner" alt="Profile banner" width="100%" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cs,dart,ts,angular,react,nextjs,flutter,tailwind,dotnet,azure,docker,mongodb,firebase,supabase,github" alt="Skills" />
+  </a>
+</div>
 
----
+## 📊 GitHub Analytics
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TendulkarBudida&show_icons=true&theme=tokyonight&hide_border=true&title_color=007EC6" alt="Tendulkar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TendulkarBudida&theme=tokyonight&hide_border=true&ring=007EC6&fire=007EC6" alt="Tendulkar's GitHub Streak" width="48%" />
+</div>
 
-<img src="https://github-profile-deploy.vercel.app/api/about" alt="About Me" width="100%" />
+## 🚀 Featured Projects
 
----
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Multi-LLM Chatbot](https://github.com/TendulkarBudida)** | Enterprise-grade code generation routing requests across LLMs. | Next.js, FastAPI, OpenRouter |
+| **[Fake News Detection](https://github.com/TendulkarBudida)** | Ensemble ML classifier outperforming base models with 97% accuracy. | Python, Gemini API, Docker |
+| **[Water Girl](https://github.com/TendulkarBudida)** | Real-time QR-based event attendance management system. | Flutter, Supabase, Next.js |
+| **[E-Commerce Ops Starter](https://github.com/Dhruv-80/ecommerce-ops-env-starter)** | Scaffolded environment for managing e-commerce codebase workflows. | Multi-repo architecture |
 
-## Tech Stack
+<br/>
 
-<img src="https://github-profile-deploy.vercel.app/api/tech-stack" alt="Tech Stack" width="100%" />
+## 🔗 Connect with me
 
----
-
-## Quick Stats
-
-<img src="https://github-profile-deploy.vercel.app/api/stats" alt="Quick Stats" width="100%" />
-
----
-
-## Connect
-
-<img src="https://github-profile-deploy.vercel.app/api/links" alt="Connect" width="100%" />
-
-### Links
-
-[🌐 Portfolio](https://tendulkar.dev) • [💼 LinkedIn](https://linkedin.com/in/tendulkarbudida) • [💻 GitHub](https://github.com/tendulkarbudida) • [📄 Resume](https://tendulkar.dev/resume) • [✉️ Email](mailto:tendulkar@budida.dev)
-
----
-
-### Featured Projects
-
-- **[AI Agent Orchestrator](https://github.com/tendulkarbudida/agent-orchestrator)** — Multi-agent workflow engine with LangGraph
-- **[RAG Pipeline Framework](https://github.com/tendulkarbudida/rag-pipeline)** — Production-ready retrieval-augmented generation
-- **[Edge Compute Toolkit](https://github.com/tendulkarbudida/edge-toolkit)** — Low-latency serverless utilities
-- **[DevEx CLI](https://github.com/tendulkarbudida/devex-cli)** — Developer experience automation tooling
-
----
-
-> Built with Next.js + `@vercel/og` • Deployed on Vercel • Cyberpunk aesthetic by design
-
----
-
-## Deployment Status ✅
-
-**The Vercel deployment is already live!** 🎉
-
-- **Deployment URL**: `https://github-profile-deploy.vercel.app`
-- **All 5 API endpoints returning 200 OK**
-- **Images render correctly via GitHub's Camo proxy**
-
-### To use this profile:
-1. Create a repository named `TendulkarBudida` (must match your GitHub username)
-2. Copy the **entire markdown above** into that repo's `README.md`
-3. Commit — GitHub will render the profile automatically
-
-### If you want your own deployment:
-1. Go to [github.com/TendulkarBudida/github-profile-deploy](https://github.com/TendulkarBudida/github-profile-deploy)
-2. Fork the repository
-3. Go to [vercel.com](https://vercel.com) → **Add New → Project** → Import your fork
-4. Deploy — no configuration needed (Vercel auto-detects the `api/` folder)
-5. Update the image URLs in this README to use your new deployment URL
+<div align="center">
+  <a href="https://linkedin.com/in/tendulkarbudida">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tendulkarbudida@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Add your elegant portfolio website link below! -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ---
-
-## API Endpoints
-
-| Endpoint | Size | Description |
-|----------|------|-------------|
-| `/api/banner` | 1500×900 | Hero banner with name, role, tagline, stats, tech tags |
-| `/api/about` | 1500×600 | Bio, focus areas, interest tags |
-| `/api/tech-stack` | 1500×1000 | 5 categories × 6 technologies each |
-| `/api/stats` | 1500×400 | 4 metric cards (years, projects, production, AI) |
-| `/api/links` | 1500×500 | 5 connect buttons + Markdown reminder |
-
-All routes return valid PNG via `@vercel/og` with `runtime = 'nodejs'`.
-
----
-
-## Local Development
-
-```bash
-cd github-profile-deploy
-npm install
-npm run dev
-```
-
-Then test endpoints at `http://localhost:3000/api/banner`, `/api/about`, etc.
-
----
-
-## Customization
-
-Edit the JSX/inline styles in `src/app/api/*/route.ts` to change colors, text, tags, spacing, etc. Every push to GitHub auto-redeploys on Vercel.
+<div align="center">
+  <i>"Building systems that automate, scale, and inspire."</i>
+</div>
