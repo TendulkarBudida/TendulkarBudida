@@ -25,13 +25,6 @@
   </a>
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TendulkarBudida&show_icons=true&theme=tokyonight&hide_border=true&title_color=007EC6" alt="Tendulkar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TendulkarBudida&theme=tokyonight&hide_border=true&ring=007EC6&fire=007EC6" alt="Tendulkar's GitHub Streak" width="48%" />
-</div>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
